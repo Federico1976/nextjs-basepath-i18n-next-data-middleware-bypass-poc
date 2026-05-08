@@ -1,0 +1,17 @@
+{
+  "name": "nextjs-basepath-i18n-next-data-middleware-bypass-poc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal PoC for Next.js middleware matcher bypass on implicit default-locale _next/data routes with basePath+i18n.",
+  "scripts": {
+    "dev": "next dev -p 3011",
+    "build": "next build",
+    "start": "next start -p 3011",
+    "reproduce": "bash reproduce.sh"
+  },
+  "dependencies": {
+    "next": "16.2.4",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
