@@ -1,7 +1,5 @@
 # Next.js middleware matcher bypass on implicit default-locale `_next/data` routes with `basePath` + `i18n`
 
-# Next.js middleware matcher bypass on implicit default-locale `_next/data` routes with `basePath` + `i18n`
-
 Minimal local reproduction for a Next.js Pages Router middleware matcher bypass involving:
 
 - `basePath`
